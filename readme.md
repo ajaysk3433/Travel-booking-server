@@ -7,7 +7,7 @@ It was developed as a **full-stack intern assignment** to showcase proficiency i
 
 🎨 **Figma Design:** [Booking UI](https://www.figma.com/design/8X6E1Ev8YdtZ3erV0lifvb/HD-booking?node-id=0-1&p=f&t=K4scwnxflHmfbb2a-0)
 
-🌐 **Live Demo:** https://travel-booking-server-7k04.onrender.com
+🌐 **Live Demo:** https://highway-delite-9n63.onrender.com
 
 💻 **Frontend Repository:** https://github.com/ajaysk3433/Travel-booking-front.git
 
